@@ -6,4 +6,8 @@ Comenzó como una idea de @marquein y va juntando gente que le gusta el montañi
 
 Vamos a empezar generando archivo de cerros y de puntos de interés que no se encuentren en wikiloc y vamos a ver a donde nos lleva esto.
 
+📫 Pueden encontrarme en | you can find me at:
+www.marcosgustavocortina.com
+https://www.instagram.com/orientacioncaba/
+
 Suerte para nos.
