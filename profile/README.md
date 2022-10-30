@@ -12,7 +12,9 @@ Vamos a empezar generando archivo de cerros y de puntos de interés que no se en
 🌱 Ideal sería generar una comunidad donde discutiéramos y creciéramos todos.
 
 📫 Pueden encontrarme en | you can find me at:
+	
 www.marcosgustavocortina.com
+	
 https://www.instagram.com/orientacioncaba/
 
 Suerte para nos.
