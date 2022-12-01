@@ -1,10 +1,12 @@
 # OrientacionCABA
 ## Subimos wp de cerros y punto de interés para usar en el GPS y en aplicaciones GIS.
-___
+
 ## Un pequeño tutorial de como usar los archivos con [QGis](https://qgis.org/es/site/) ---> [**aquí**](https://youtu.be/1aOfSnjIBAo)
-___
+
 # Descarguen su **kml** (para gps o google earth) o **gpkg** (para producir sus mapas en QGis) [**aquí**](https://github.com/OrientacionCABA/CABA_colaborativo/releases/tag/v0.2.0)
+
 ___
+## Nuestro objetivo | Our Objetive
 Orgainzación que procura colaborar en la obtención de Capas SIG aplicadas al montañismo tanto para navegar con dispositivos satelitales como para desarrollar mapas | Organization that seeks to collaborate in obtaining GIS Layers applied to mountaineering both to navigate with satellite devices and to develop maps
 
 ## Hola |Hi there 👋
